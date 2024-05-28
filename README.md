@@ -1,5 +1,6 @@
 # Amazon-Sales-Analysis
 ![image](https://github.com/Pavan-GB/Amazon-Sales-Analysis/assets/95584279/e52d6bbb-dcf3-4e02-97a5-0cd35dff7f01)
+
 We're here to dig deep into Amazon's sales data, extracting insights and trends to optimize sales strategies, understand customer behavior, and enhance business operations.
 
 **Intro:**
